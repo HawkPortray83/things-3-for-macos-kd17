@@ -1,4 +1,4 @@
-#  
+#  smart Automation for Things 3 for macOS - custom shortcuts and widgets offers the most advanced Things 3 for macOS automation, with custom shortcuts and widgets. Ideal for
 
 
 
